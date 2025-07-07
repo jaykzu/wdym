@@ -1,4 +1,4 @@
-# wdym - What Do You Mean?
+# wdym
 
 **wdym** (What Do You Mean?) is an AI-powered command-line assistant built with Go that helps you understand, generate, and work with terminal commands using natural language.
 
