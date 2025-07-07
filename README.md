@@ -4,22 +4,22 @@
 
 ## Features
 
-🤖 **AI-Powered Command Analysis**
+**AI-Powered Command Analysis**
 - Analyze your recently executed commands
 - Get contextual suggestions and explanations
 - Understand what commands do and potential issues
 
-🐚 **Shell Command Generation**
+**Shell Command Generation**
 - Generate shell commands from natural language
 - Safe command suggestions with execution confirmation
 - OS and shell-aware recommendations
 
-📝 **File Operations**
+**File Operations**
 - Create new files from natural language descriptions
 - Edit existing files with AI assistance
 - Read and analyze file contents with questions
 
-💻 **Code Generation**
+**Code Generation**
 - Generate code snippets from descriptions
 - Language-agnostic code assistance
 - Quick prototyping and examples
